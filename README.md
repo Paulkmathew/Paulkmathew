@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulkmathew
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently doing btech 
+- 🌱 I’m completed my Btech 
 - 💞️ I’m looking to collaborate with programers 
 - 📫 How to reach me ... no you can't
 
